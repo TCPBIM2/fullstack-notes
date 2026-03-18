@@ -1,3 +1,7 @@
+[ Home](../README.md)
+
+---
+
 # React Router quick patterns (v6+)
 
 ## Route layout

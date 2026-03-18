@@ -1,3 +1,7 @@
+[ Home](../README.md)
+
+---
+
 # Data-viz checklist (React + Next/Router)
 
 ## Before coding

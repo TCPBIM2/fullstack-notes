@@ -1,3 +1,7 @@
+[ Home](../README.md)
+
+---
+
 # Chatbots / LLM Apps (REST + WebSockets)
 
 ## Concepts / patterns (high-signal)

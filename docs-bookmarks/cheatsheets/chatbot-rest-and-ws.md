@@ -1,3 +1,7 @@
+[ Home](../README.md)
+
+---
+
 # Chatbot backend: REST (simple) + WebSockets (realtime)
 
 ## Option A: REST (non-streaming) — simplest

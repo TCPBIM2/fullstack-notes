@@ -1,3 +1,7 @@
+[ Home](../README.md)
+
+---
+
 # Chatbot app checklist (web + REST backend)
 
 ## Core pieces
